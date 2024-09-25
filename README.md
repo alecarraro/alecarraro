@@ -1,7 +1,6 @@
 ## Hi 👋
 My name is Alessandro, and I am a student of Computational Mathematics at TU Delft. I have a strong interest in high-performance computing and machine learning, particularly their applications in finance. I will start uploading both my previous and current projects here.
 
-The latest verion of my resume can be found here.
 
 <!--
 **alecarraro/alecarraro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
