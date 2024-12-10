@@ -1,5 +1,5 @@
 ## Hi 👋
-My name is Alessandro, and I am a student of Computational Mathematics at TU Delft. I have a strong interest in high-performance computing and machine learning, particularly their applications in finance. I will start uploading both my previous and current projects here.
+My name is Alessandro, and I am a student of Computational Mathematics at TU Delft. I have a strong interest in high-performance computing and machine learning
 
 
 <!--
