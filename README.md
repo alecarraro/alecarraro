@@ -1,5 +1,4 @@
 ## Hi 👋
-My name is Alessandro, and I am a student of Computational Mathematics at TU Delft. I have a strong interest in high-performance computing and machine learning
 
 
 <!--
